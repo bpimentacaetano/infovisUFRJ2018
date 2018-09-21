@@ -1,0 +1,27 @@
+#mapContainer {
+    width: 50%;
+    /*height:30%;*/
+    float: left;
+    /*margin: 0 auto;    */
+}
+
+#pieContainer {
+	width: 50%;
+    float: left;
+    margin-bottom: 100px
+}
+
+#barContainer {
+	margin-top: 100px;
+    width: 70%;
+    /*height:1000px;*/
+    /*float: left;*/
+    margin: 0 auto;
+}
+
+span{
+	margin-top: 15%;
+    float: left;
+    font-size: 20px;
+    color: rgb(85, 85, 85);
+}
